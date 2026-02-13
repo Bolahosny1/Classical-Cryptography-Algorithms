@@ -15,4 +15,3 @@ It is designed for educational purposes and to demonstrate how traditional ciphe
 ## 🛠️ Technologies Used
 - Python 3
 
-## 📂 Project Structure
